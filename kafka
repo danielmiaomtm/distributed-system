@@ -1,0 +1,21 @@
+Kafka:
+
+Distirbuted message queue
+Horizontally scalable, fault-tolerant
+Durable
+Fast  
+  100 MB reads and writes  per second
+  Thousand of clients per broker
+  
+Defination:
+Message : an immutable array of bytes
+Topic : a feed of messages
+Producer : a process that publishs message to a topic
+Consumer: a single-threaded process that subscribes to a topic
+Broker : one of the servers that comprise a cluster
+
+
+Topic Partitioning : 
+  0
+  1
+  2

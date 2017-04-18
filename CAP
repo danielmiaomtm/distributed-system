@@ -1,0 +1,10 @@
+http://www.hollischuang.com/archives/681
+http://www.hollischuang.com/archives/693
+
+consistency:
+Queue, make sure every time each task execute, and then notify others
+two phase commit
+three phase commit
+
+http://www.hollischuang.com/archives/693
+paxos
